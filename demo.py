@@ -1,3 +1,3 @@
 print("hello")
 print('hello guo')
-print('add hxst')
+print('dlete add hxst')
